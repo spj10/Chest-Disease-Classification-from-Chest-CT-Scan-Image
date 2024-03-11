@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLOPS/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/c094b4edfba2487d8b7e0f18013ee221/artifacts
+end_time: 1710157391994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c094b4edfba2487d8b7e0f18013ee221
+run_name: sincere-hog-789
+run_uuid: c094b4edfba2487d8b7e0f18013ee221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710157389584
+status: 3
+tags: []
+user_id: spjad
